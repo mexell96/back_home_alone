@@ -1,0 +1,14 @@
+{
+  "table": {
+    "name": "table",
+    "visible": "false"
+  },
+  "mouse": {
+    "name": "mouse",
+    "visible": "false"
+  },
+  "pcMonitor": {
+    "name": "pcMonitor",
+    "visible": "false"
+  }
+}
