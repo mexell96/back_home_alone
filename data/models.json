@@ -1,14 +1,20 @@
 {
-  "table": {
-    "name": "table",
-    "visible": "false"
-  },
-  "mouse": {
-    "name": "mouse",
-    "visible": "false"
-  },
-  "pcMonitor": {
-    "name": "pcMonitor",
-    "visible": "false"
-  }
+"poster": [true, 3 ],
+"tv": [true, 5],
+"our_computer": [ true, 14],
+"fifteen": [ false, 9],
+"fifteen_solved": [false, 9 ],
+"trash": [false, 12],
+"stairs_door": [true,  16],
+"coffee": [true, 18],
+"tnt": [ true,  20 ],
+"tnt_ready": [ true,  19 ],
+"computer": [ true, 22],
+"cable_xlr": [  true, 45 ],
+"cable_trs": [  true, 12  ],
+"balcony_door": [true, 22 ],
+"computer_trap": [  true, 34 ],
+"notebook": [true, 30 ],
+"security_door": [  true, 12 ],
+"security_door_opened": [  true, 56]
 }
